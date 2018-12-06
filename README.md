@@ -4,7 +4,7 @@ Because programs may rely on diffirent dependencies or packages, or even differe
 
 ### 0. Find your current working environments:
 ```sh
-$ conda info --envs`
+$ conda info --envs
 $ root                  *  D:\Anaconda3
 ```
 
