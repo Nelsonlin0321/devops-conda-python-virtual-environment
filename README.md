@@ -1,6 +1,6 @@
 # Guidance to use virtual environment of Python
 
-Because programs may rely on diffirent dependencies or packages, or even different version of python,to avoid unistallation of  current working environment, setting different environments is better way to manager packages and different of python.
+Because programs may rely on diffirent dependencies or packages, or even different version of python,to avoid unistallation of  current working environment, setting different environments is better way to manage packages and different of python.
 
 ### 0. Find your current working environments:
 ```sh
